@@ -1,0 +1,2 @@
+'Machine[[:space:]]Learning[[:space:]]Project'/data/* filter=lfs diff=lfs merge=lfs -text
+MachineLearningProject/data/train.csv filter=lfs diff=lfs merge=lfs -text
