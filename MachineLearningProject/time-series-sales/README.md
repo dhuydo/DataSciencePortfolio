@@ -24,7 +24,7 @@ We will predict sales using time dependent features include: linear trend featur
 
 ![](../images/offholidays_predict.png)
 
-We added holidays feature as a predictor, but unfortunately the RMSE raised till 90.1358.
+We added holidays feature as a predictor, but unfortunately the RMSE raised till 90.1358. It seems like the holidays do not affect all products; the future work will related to explore the effect of holidays on some specific categories. For current situation, we temporarily remove it from our training data.
 
 ![](../images/holidays_predict.png)
 
