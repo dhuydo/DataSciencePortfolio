@@ -28,7 +28,7 @@ We added holidays feature as a predictor, but unfortunately the RMSE raised till
 
 ![](../images/holidays_predict.png)
 
-To explore the serial dependent predictor, we'll create lag features (7 days) as predictors. The result confirm it with greatly improved RMSE (55.0316).
+To explore the serial dependence of our data, we'll create lag features (7 days) as predictors. The result confirm it with greatly improved RMSE (55.0316).
 
 ![](../images/final_predict.png)
 
