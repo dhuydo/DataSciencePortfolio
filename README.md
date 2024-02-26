@@ -10,11 +10,12 @@
 </a>
 </div>  
 
-This is a collection of selected Data Science projects to demonstrate skill sets, knowledge and what I find interesting
+This is a collection of selected Data Science projects to demonstrate skill sets, knowledge and what I find interesting.
 
 ## Contents
 
-- **[Machine Learning Notebook](https://dhuydo.github.io/MachineLearningNotebook/)**: A notebook about some Machine Learning concepts and practical exercises.
+- **[Machine Learning Notebook](https://dhuydo.github.io/MachineLearningNotebook/)**: This is a notebook about some Machine Learning concepts and practical exercises.
+- **[Machine Learning Project](./MachineLearningProject/README.md)**: These are several projects conducted while I've been understanding ML concepts.
 - **[SQL](./SQL)**: Executing and formulating SQL queries for selected simulated business cases.
 - **[Web Scraping](./Web%20Scraping)**: Implementing web scraping to get and do some EDAs.
 - **Tableau**:
